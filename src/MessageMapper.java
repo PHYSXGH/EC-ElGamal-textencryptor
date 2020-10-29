@@ -223,10 +223,4 @@ public class MessageMapper {
         return encodedMessagePoint;
     }
 
-    /*
-    byte[] bytes = text.getBytes(UTF_8);
-    System.out.println("bytes= "+Arrays.toString(bytes));
-    System.out.println("text again= "+new String(bytes, UTF_8));
-     */
-
 }
